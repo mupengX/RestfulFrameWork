@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:aop="http://www.springframework.org/schema/aop" xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	 	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/context
+		http://www.springframework.org/schema/context/spring-context-3.0.xsd
+		http://www.springframework.org/schema/aop 
+		http://www.springframework.org/schema/aop/spring-aop-3.0.xsd
+		http://www.springframework.org/schema/tx 
+		http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
+
+	
+	 <!--sql 防火墙配置（略sql 检查配置 logViolation【true】 throwException 【false】）-->
+		<bean id="wall-filter" class="com.alibaba.druid.wall.WallFilter">
+	      <property name="dbType" value="postgresql" />
+	      <property name="logViolation" value="true" />
+	      <property name="throwException" value="false" />
+	    </bean>
+	    <!-- druid 内置监控 -->
+		<bean id="stat-filter" class="com.alibaba.druid.filter.stat.StatFilter">
+		    <property name="slowSqlMillis" value="50" />
+		    <property name="logSlowSql" value="true" />
+		    <property name="mergeSql" value="true" />
+	    </bean>
+	
+	<!-- Druid 数据源 -->
+	<bean id="defaultDataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close"> 
+      <!-- 基本属性 url、user、password -->
+      <property name="url" value="jdbc:postgresql://192.168.1.82:5432/tk?useUnicode=true&amp;characterEncoding=utf-8" />
+      <property name="username" value="tk" />
+	    <!-- 配置数据库连接密码是否需要加密 config.decrypt=true代表加密，config.decrypt=false代表不加密-->
+      <property name="connectionProperties" value="config.decrypt=true" />
+	  <!-- 
+		   若要加密数据库密码请执行：java -cp druid-0.2.23.jar com.alibaba.druid.filter.config.ConfigTools you_password B6JsZr5Jf0wZ/LTpOqcfh5QpEAEbPgOiO1WRe9+wuaThK73QhPloVepk3E5fEUmFvCRTJnAoDCIz9dMRGWZRAg==
+	  -->
+      <property name="password" value="B6JsZr5Jf0wZ/LTpOqcfh5QpEAEbPgOiO1WRe9+wuaThK73QhPloVepk3E5fEUmFvCRTJnAoDCIz9dMRGWZRAg==" />
+      <!-- 配置初始化大小、最小、最大 -->
+      <property name="initialSize" value="1" />
+      <property name="minIdle" value="1" /> 
+      <property name="maxActive" value="20" />
+
+      <!-- 配置获取连接等待超时的时间 -->
+      <property name="maxWait" value="60000" />
+
+      <!-- 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒 -->
+      <property name="timeBetweenEvictionRunsMillis" value="60000" />
+
+      <!-- 配置一个连接在池中最小生存的时间，单位是毫秒 -->
+      <property name="minEvictableIdleTimeMillis" value="300000" />
+
+      <property name="validationQuery" value="SELECT 'x'" />
+      <property name="testWhileIdle" value="true" />
+      <property name="testOnBorrow" value="false" />
+      <property name="testOnReturn" value="false" />
+
+      <!-- 打开PSCache，并且指定每个连接上PSCache的大小 -->
+      <property name="poolPreparedStatements" value="false" />
+      <property name="maxPoolPreparedStatementPerConnectionSize" value="20" />
+      <!-- 配置监控统计拦截的filters 和 proxyFilters 他们是组合关系 -->
+ 	  <property name="filters" value="config" />
+      <property name="proxyFilters">
+          <list>
+              <ref bean="wall-filter"/>
+              <ref bean="stat-filter" />
+          </list>
+      </property>
+	
+  </bean>
+<!-- Druid end 数据源 -->
+
+	<bean id="defaultSessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="defaultDataSource" />
+		<property name="packagesToScan" >
+			<list>
+				<value>com.tk.orm.*.model</value>
+				<!-- <value>com.tk.orm.auth.model</value>
+				<value>com.tk.orm.publicuser.model</value>
+				<value>com.tk.orm.user.model</value> -->
+			</list>
+		</property>
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.jdbc.use_scrollable_resultset">false</prop>
+				<prop key="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</prop>
+				<prop key="hibernate.show_sql">true</prop>
+				<prop key="hibernate.format_sql">true</prop>
+				<prop key="current_session_context_class">thread</prop>
+				<prop key="hibernate.connection.autocommit">false</prop>
+             	<prop key="hibernate.fetch_size">50</prop>
+             	<prop key="hibernate.jdbc.batch_size">25</prop>
+             	<prop key="useTransactionAwareDataSource">true</prop>  
+			</props>
+		</property>
+	</bean> 
+	<!-- 分布式数据源
+	
+	<bean id="defaultDataSource" class="com.atomikos.jdbc.AtomikosDataSourceBean" 
+		init-method="init" destroy-method="close"> <property name="uniqueResourceName" 
+		value="tk"/> <property name="xaDataSourceClassName" value="com.mysql.jdbc.jdbc2.optional.MysqlXADataSource"/> 
+		<property name="xaProperties"> <props> <prop key="url">jdbc:mysql://192.168.1.93:3306/tk_dev?useUnicode=true&amp;characterEncoding=utf-8</prop> 
+		<prop key="user">snail</prop> <prop key="password">root</prop> <prop key="pinGlobalTxToPhysicalConnection">true</prop> 
+		</props> </property> <property name="minPoolSize" value="10" /> <property 
+		name="maxPoolSize" value="100" /> <property name="borrowConnectionTimeout" 
+		value="30" /> <property name="testQuery" value="select 1" /> <property name="maintenanceInterval" 
+		value="60" /> </bean> -->
+
+
+
+</beans>
