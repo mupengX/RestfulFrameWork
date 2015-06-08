@@ -9,7 +9,7 @@ import com.wordnik.swagger.annotations.ApiModelProperty;
  * <pre> 
  *  
  *  File: PlatFormBaseInfoDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台基本信息DTO

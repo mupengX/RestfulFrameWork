@@ -11,7 +11,7 @@ import com.wordnik.swagger.annotations.ApiModelProperty;
  * <pre> 
  *  
  *  File: PlatformDetailDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

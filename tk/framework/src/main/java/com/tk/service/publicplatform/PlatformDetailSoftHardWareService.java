@@ -13,7 +13,7 @@ import com.tk.orm.publicplatform.dto.PlatformDetailSoftHardWareDto;
  * <pre> 
  *  
  *  File: PlatformDetailHardWareService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

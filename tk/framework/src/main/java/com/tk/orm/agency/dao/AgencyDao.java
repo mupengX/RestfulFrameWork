@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: AgencyDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  机构信息DAO层接口

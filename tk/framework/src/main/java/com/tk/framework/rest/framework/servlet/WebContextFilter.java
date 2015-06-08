@@ -21,7 +21,7 @@ import com.tk.framework.util.json.WebContext;
  * <pre> 
  *  
  *  File: WebContextFilter.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  TODO

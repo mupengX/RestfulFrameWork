@@ -9,7 +9,7 @@ import java.util.Properties;
  * <pre> 
  *  
  *  File: ConfigProperty.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 读取sql xml文件配置类
  *  TODO

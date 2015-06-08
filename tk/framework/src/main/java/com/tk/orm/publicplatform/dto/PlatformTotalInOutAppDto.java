@@ -8,7 +8,7 @@ import com.wordnik.swagger.annotations.ApiModel;
  * <pre> 
  *  
  *  File: PlatformTotalInOutAppDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

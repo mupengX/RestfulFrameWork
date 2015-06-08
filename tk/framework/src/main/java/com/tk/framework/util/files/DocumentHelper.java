@@ -15,7 +15,7 @@ import com.tk.framework.rest.framework.model.ResponseModel;
  * <pre> 
  *  
  *  File: DocumentHelper.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:文件上传工具类
  *  TODO

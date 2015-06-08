@@ -10,7 +10,7 @@ import com.tk.orm.user.model.SysUserDetailPo;
  * <pre>
  *  
  *  File: SysUserDetailService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  用户详情Service层接口

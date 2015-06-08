@@ -10,7 +10,7 @@ import com.tk.orm.log.model.LogPo;
  * <pre>
  *  
  *  File: LogDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

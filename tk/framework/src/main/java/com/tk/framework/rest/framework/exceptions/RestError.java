@@ -7,7 +7,7 @@ import org.springframework.util.ObjectUtils;
  * <pre> 
  *  
  *  File: RestError.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: rest 错误类
  * 

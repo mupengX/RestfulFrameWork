@@ -9,7 +9,7 @@ import java.util.Date;
  * <pre> 
  *  
  *  File: SmartDateFormat.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 日期格式化工具类
  *  TODO

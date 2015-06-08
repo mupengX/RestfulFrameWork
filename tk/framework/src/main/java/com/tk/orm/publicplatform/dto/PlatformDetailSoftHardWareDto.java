@@ -6,7 +6,7 @@ import java.math.BigDecimal;
  * <pre> 
  *  
  *  File: PlatformDetailHardWareDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

@@ -6,7 +6,7 @@ import com.tk.framework.vo.BaseDto;
  * <pre>
  *  
  *  File: SysDepartmentWithUserInDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  附加了用户的部门DTO，即添加部门时会同时绑定一个用户

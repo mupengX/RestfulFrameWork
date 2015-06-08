@@ -15,7 +15,7 @@ import com.tk.framework.util.APILevel;
  * <pre> 
  *  
  *  File: ResourceDescription.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 自定义注解用于权限描述
  *  TODO

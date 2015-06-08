@@ -11,7 +11,7 @@ import com.tk.orm.user.model.SysDataTypePo;
  * <pre> 
  *  
  *  File: SysDataType.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

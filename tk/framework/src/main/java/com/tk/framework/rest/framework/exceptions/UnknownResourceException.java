@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre> 
  *  
  *  File: UnknownResourceException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 未知资源异常
  *  TODO

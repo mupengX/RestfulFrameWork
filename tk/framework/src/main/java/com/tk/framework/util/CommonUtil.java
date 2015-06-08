@@ -6,7 +6,7 @@ import java.util.UUID;
  * <pre> 
  *  
  *  File: CommonUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 工具类
  *  TODO

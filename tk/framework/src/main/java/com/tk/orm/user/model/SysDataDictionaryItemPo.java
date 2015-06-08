@@ -16,7 +16,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: SysDataDictionaryItemPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  数据字典条目PO

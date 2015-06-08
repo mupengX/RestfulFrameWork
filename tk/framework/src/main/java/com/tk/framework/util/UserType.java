@@ -4,7 +4,7 @@ package com.tk.framework.util;
  * <pre> 
  *  
  *  File: UserType.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 用户类型枚举类
  *  TODO

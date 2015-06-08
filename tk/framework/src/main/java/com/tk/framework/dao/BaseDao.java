@@ -14,7 +14,7 @@ import com.tk.framework.util.ColumnReturnType;
  * <pre> 
  *  
  *  File: BaseDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 基础DAO，提供常用的数据库操作
  *  TODO

@@ -8,7 +8,7 @@ import com.tk.framework.vo.BaseDto;
  * <pre>
  *  
  *  File: ResourceUIPrivilegeOutDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源权限DTO(应用于查询返回结果)

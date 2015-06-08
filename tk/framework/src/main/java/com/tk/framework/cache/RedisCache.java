@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
  * <pre> 
  *  
  *  File: RedisCache.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

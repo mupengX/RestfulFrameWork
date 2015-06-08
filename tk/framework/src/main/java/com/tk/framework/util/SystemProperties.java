@@ -11,7 +11,7 @@ import com.tk.framework.exceptions.ConfigurationException;
  * <pre> 
  *  
  *  File: SystemProperties.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 系统配置属性工具类
  *  TODO

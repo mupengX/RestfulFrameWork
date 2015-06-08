@@ -4,7 +4,7 @@ package com.tk.framework.secruity;
  * <pre> 
  *  
  *  File: PermissionVo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 权限vo
  *  TODO

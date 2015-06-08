@@ -12,7 +12,7 @@ import com.tk.framework.util.StringUtil;
  * <pre> 
  *  
  *  File: FieldslFilter.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 动态字段过滤Filter
  *  TODO

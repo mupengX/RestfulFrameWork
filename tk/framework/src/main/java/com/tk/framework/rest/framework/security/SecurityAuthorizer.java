@@ -5,7 +5,7 @@ package com.tk.framework.rest.framework.security;
  * <pre> 
  *  
  *  File: SecurityAuthorizer.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 权限判断接口
  *  TODO

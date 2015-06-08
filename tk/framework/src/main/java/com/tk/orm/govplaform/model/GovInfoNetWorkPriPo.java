@@ -13,7 +13,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: GovInfoNetWorkPriPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  政务部门专网情况表

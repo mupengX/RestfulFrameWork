@@ -17,7 +17,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: LogPro.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

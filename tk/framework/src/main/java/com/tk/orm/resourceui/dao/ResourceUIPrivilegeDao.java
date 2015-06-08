@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: ResourceUIPrivilegeDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源权限DAO层接口

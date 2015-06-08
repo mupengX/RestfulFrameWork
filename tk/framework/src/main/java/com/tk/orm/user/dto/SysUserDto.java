@@ -12,7 +12,7 @@ import com.tk.orm.user.model.SysUserPo;
  * <pre>
  *  
  *  File: SysUserVo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  用户DTO

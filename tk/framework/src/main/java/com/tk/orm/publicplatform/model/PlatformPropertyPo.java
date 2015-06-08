@@ -15,7 +15,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: PlatformTotalPropertyPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台_资产

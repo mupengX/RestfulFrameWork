@@ -4,7 +4,7 @@ package com.tk.framework.util;
  * <pre> 
  *  
  *  File: EntityClassLoader.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: class加载工具类
  *  TODO

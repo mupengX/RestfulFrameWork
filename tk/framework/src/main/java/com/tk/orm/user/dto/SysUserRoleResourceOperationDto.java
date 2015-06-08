@@ -12,7 +12,7 @@ import com.tk.orm.user.model.SysResourceOperationPo;
  * <pre>
  *  
  *  File: SysUserRoleResourceOperationDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  用户角色与资源操作的关系DTO

@@ -11,7 +11,7 @@ import com.tk.orm.agency.model.AgencyPo;
  * <pre>
  *  
  *  File: AgencyDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  机构信息DTO

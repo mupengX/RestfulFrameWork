@@ -11,7 +11,7 @@ import com.tk.framework.page.PageBeanDto;
  * <pre>
  *  
  *  File: BaseService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: Service基础类
  *  TODO

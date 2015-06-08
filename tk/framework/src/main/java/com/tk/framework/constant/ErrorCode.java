@@ -5,7 +5,7 @@ package com.tk.framework.constant;
  * <pre> 
  *  
  *  File: ErrorCode.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 业务错误代码。 目前已废弃。
  *  TODO

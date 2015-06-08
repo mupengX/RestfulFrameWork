@@ -16,7 +16,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: SysPrivilegePo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  权限PO,描述权限主体和资源操作之间的关系，其中permission的值只有三个：F、N、R，F全称Full，N全称NO，R全称Readonly

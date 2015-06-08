@@ -39,7 +39,7 @@ import java.security.spec.InvalidKeySpecException;
  * <pre>
  *  
  *  File: PasswordHash.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  <密码加密>

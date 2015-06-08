@@ -12,7 +12,7 @@ import com.tk.framework.dynamicobject.DynamicObject;
  * <pre> 
  *  
  *  File: DynamicObjectImpl.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 动态表格封装实现类
  *  TODO

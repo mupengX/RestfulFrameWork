@@ -11,7 +11,7 @@ import com.tk.orm.publicplatform.dto.PlatformDetailAppSystemDto;
  * <pre> 
  *  
  *  File: PlatformDetailAppSystemService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

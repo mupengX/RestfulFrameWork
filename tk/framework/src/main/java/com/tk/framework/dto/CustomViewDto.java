@@ -4,7 +4,7 @@ package com.tk.framework.dto;
  * <pre> 
  *  
  *  File: CustomViewDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:  自定义视图DTO
  *  TODO

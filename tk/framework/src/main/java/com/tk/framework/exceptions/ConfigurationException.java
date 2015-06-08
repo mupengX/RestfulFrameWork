@@ -4,7 +4,7 @@ package com.tk.framework.exceptions;
  * <pre> 
  *  
  *  File: ConfigurationException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 配置异常信息类
  *  TODO

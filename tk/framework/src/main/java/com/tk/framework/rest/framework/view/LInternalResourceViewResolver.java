@@ -7,7 +7,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
  * <pre> 
  *  
  *  File: LInternalResourceViewResolver.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  TODO

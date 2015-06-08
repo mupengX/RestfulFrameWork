@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.model;
  * <pre>
  *  
  *  File: RestThreadLocal.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: REST线程工具类
  *  TODO

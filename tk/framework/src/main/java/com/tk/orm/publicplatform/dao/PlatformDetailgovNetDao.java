@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre> 
  *  
  *  File: PlatformDetailgovNetDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *   公共平台网络统一接口 DAO层 

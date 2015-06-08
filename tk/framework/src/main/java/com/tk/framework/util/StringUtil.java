@@ -13,7 +13,7 @@ import org.apache.commons.lang.exception.NestableRuntimeException;
  * <pre> 
  *  
  *  File: StringUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 字符串工具类
  *  TODO

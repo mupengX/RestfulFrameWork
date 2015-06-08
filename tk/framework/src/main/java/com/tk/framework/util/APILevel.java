@@ -4,7 +4,7 @@ package com.tk.framework.util;
  * <pre> 
  *  
  *  File: APILevel.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: REST API 调用级别
  *  TODO

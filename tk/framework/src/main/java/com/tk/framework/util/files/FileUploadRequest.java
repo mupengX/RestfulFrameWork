@@ -7,7 +7,7 @@ import java.util.Arrays;
  * <pre> 
  *  
  *  File: FileUploadRequest.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 文件上传请求对象
  *  TODO

@@ -29,7 +29,7 @@ import org.springframework.context.ApplicationContextAware;
  * <pre> 
  *  
  *  File: MultiSessionFactory.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 动态获取SessionFactory类
  *  TODO

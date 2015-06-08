@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * <pre> 
  *  
  *  File: IgnoreAuthentication.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 自定义注解，用于标识某些方法不需要进行身份认证和权限校验
  *  TODO

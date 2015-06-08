@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre> 
  *  
  *  File: SysDataDictionaryItemDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  数据字典条目DAO层接口.

@@ -16,7 +16,7 @@ import com.tk.framework.page.PageBeanDto;
  *  Lexing
  *  File: MethodCacheKeyGenerator.java
  * 
- *  Lexing, Inc.
+ *  Lexing
  *  Copyright (C): 2014
  * 
  *  Description:

@@ -11,7 +11,7 @@ import com.tk.orm.resourceui.model.ResourceUIPrivilegePo;
  * <pre>
  *  
  *  File: ResourceUIPrivilegeService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源UI权限Service层接口

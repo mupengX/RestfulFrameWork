@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
  * <pre> 
  *  
  *  File: WebContext.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: webContext工具类
  *  TODO

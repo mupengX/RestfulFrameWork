@@ -16,7 +16,7 @@ import org.hibernate.mapping.Property;
  * <pre>
  *  
  *  File: HibernateConfigurationHelper.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  根据实体类得到对应的表名、主键名、字段名工具类

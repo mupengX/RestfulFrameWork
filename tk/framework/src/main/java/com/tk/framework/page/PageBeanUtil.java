@@ -8,7 +8,7 @@ import com.alibaba.fastjson.JSONObject;
  * <pre>
  *  
  *  File: PageBeanUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  分页工具类

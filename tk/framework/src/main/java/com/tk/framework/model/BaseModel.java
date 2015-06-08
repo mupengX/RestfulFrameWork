@@ -7,7 +7,7 @@ import java.util.Date;
  * <pre> 
  *  
  *  File: BaseModel.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 基础实体类
  *  TODO

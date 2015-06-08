@@ -7,7 +7,7 @@ import java.util.List;
  * <pre> 
  *  
  *  File: PageBean.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 分页类
  *  TODO

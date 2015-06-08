@@ -22,7 +22,7 @@ import com.tk.framework.util.ValidationUtil;
  * <pre>
  *  
  *  File: BaseServiceImpl.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: Service基础实现类
  * 

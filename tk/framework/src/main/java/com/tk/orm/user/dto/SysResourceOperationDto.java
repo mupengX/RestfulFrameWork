@@ -11,7 +11,7 @@ import com.tk.orm.user.model.SysResourceOperationPo;
  * <pre>
  *  
  *  File: SysResourceOperationVo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  资源操作DTO

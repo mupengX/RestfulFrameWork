@@ -10,7 +10,7 @@ import com.tk.orm.publicplatform.dto.PlatformDetailSoftwareDto;
  * <pre> 
  *  
  *  File: PlatformDetailSoftwareService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  明细_软件

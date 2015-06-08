@@ -12,7 +12,7 @@ import com.tk.orm.agency.model.AgencyPo;
  * <pre>
  *  
  *  File: AgencyService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  机构信息Service层接口

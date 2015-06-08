@@ -11,7 +11,7 @@ import com.tk.orm.user.model.SysDataDictionaryTypePo;
  * <pre>
  *  
  *  File: SysDataDictionaryTypeDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  数据字典类型DTO

@@ -22,7 +22,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: GovInfoNetWorkPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  政务部门网络情况表

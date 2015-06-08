@@ -5,7 +5,7 @@ package com.tk.service.publicplatform;
  * <pre> 
  *  
  *  File: PlatformTotalHardwareService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

@@ -10,7 +10,7 @@ import com.wordnik.swagger.annotations.ApiModel;
  * <pre> 
  *  
  *  File: PlatformDetailSoftwareDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  平台管理软件与公共应用系统明细

@@ -9,7 +9,7 @@ import com.tk.orm.log.dao.LogDao;
  * <pre> 
  *  
  *  File: LogDaoImpl.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

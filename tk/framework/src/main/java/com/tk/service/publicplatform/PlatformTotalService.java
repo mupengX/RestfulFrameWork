@@ -10,7 +10,7 @@ import com.tk.orm.publicplatform.dto.PlatformTotalSoftwareDto;
  * <pre> 
  *  
  *  File: PlatformTotalService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  汇总服务类

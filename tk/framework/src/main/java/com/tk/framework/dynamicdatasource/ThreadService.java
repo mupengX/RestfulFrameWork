@@ -4,7 +4,7 @@ package com.tk.framework.dynamicdatasource;
  * <pre> 
  *  
  *  File: ThreadService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 提供线程数据存取服务
  *  TODO

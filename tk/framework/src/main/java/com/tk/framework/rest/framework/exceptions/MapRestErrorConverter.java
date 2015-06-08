@@ -10,7 +10,7 @@ import org.springframework.http.HttpStatus;
  * <pre> 
  *  
  *  File: MapRestErrorConverter.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: REST异常信息转换类
  *  TODO

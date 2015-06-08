@@ -6,7 +6,7 @@ import java.io.Serializable;
  * <pre> 
  *  
  *  File: ResponseModel.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: rest返回值基础类
  *  TODO

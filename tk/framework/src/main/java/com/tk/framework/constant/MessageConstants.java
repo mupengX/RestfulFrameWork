@@ -5,7 +5,7 @@ package com.tk.framework.constant;
  * <pre> 
  *  
  *  File: MessageConstants.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 返回信息常量
  *  TODO

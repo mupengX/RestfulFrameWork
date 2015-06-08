@@ -21,7 +21,7 @@ import com.tk.orm.user.model.SysDepartmentPo;
  * <pre> 
  *  
  *  File: GovInfoDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  政务平台基本信息DTO

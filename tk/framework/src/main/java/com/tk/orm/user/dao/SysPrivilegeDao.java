@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: SysPrivilegeDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  权限Dao层接口

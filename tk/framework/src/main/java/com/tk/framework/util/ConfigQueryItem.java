@@ -8,7 +8,7 @@ import java.util.List;
  * <pre> 
  *  
  *  File: ConfigQueryItem.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 配置查询项
  *  TODO

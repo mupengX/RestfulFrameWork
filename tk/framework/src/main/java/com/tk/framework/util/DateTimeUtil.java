@@ -23,7 +23,7 @@ import com.tk.framework.exceptions.BusinessException;
  * <pre> 
  *  
  *  File: DateTimeUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 日期工具类
  *  TODO

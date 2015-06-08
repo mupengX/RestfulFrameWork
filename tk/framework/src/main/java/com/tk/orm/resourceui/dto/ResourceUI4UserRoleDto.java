@@ -13,7 +13,7 @@ import com.tk.orm.user.dto.SysRoleDto;
  * <pre>
  *  
  *  File: ResourceUI4UserRoleDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  用户角色与UI资源的关系DTO

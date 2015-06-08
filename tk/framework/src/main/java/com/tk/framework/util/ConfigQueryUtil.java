@@ -25,7 +25,7 @@ import com.tk.framework.exceptions.BusinessException;
  * <pre>
  *  
  *  File: ConfigQueryUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 配置查询工具类
  *  TODO

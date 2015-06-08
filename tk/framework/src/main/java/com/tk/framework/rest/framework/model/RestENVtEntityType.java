@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.model;
  * <pre> 
  *  
  *  File: RestENVtEntityType.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  TODO

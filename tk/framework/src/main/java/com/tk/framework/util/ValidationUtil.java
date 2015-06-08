@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
  * <pre>
  *  
  *  File: ValidationUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 校验工具类
  *  TODO

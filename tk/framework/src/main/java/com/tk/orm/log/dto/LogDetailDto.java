@@ -5,7 +5,7 @@ package com.tk.orm.log.dto;
  * <pre> 
  *  
  *  File: LogDetailDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

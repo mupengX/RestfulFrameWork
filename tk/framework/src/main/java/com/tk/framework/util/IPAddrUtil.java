@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletRequest;
  * <pre> 
  *  
  *  File: IPAddrUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

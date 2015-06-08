@@ -15,7 +15,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: AgencyPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  机构信息PO

@@ -12,7 +12,7 @@ import com.tk.framework.util.ValidationUtil;
  * <pre> 
  *  
  *  File: KVCache.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

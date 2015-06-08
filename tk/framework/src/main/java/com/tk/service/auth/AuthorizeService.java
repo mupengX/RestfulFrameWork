@@ -5,7 +5,7 @@ package com.tk.service.auth;
  * <pre> 
  *  
  *  File: AuthorizeService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  TODO

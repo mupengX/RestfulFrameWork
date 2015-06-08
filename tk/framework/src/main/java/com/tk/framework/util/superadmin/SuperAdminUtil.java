@@ -10,7 +10,7 @@ import com.tk.orm.user.model.SysUserPo;
  * <pre>
  *  
  *  File: SuperAdminUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

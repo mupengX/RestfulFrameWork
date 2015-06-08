@@ -25,7 +25,7 @@ import java.util.*;
  * <pre> 
  *  
  *  File: DefaultRestErrorResolver.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 缺省的rest Error处理类
  *  TODO

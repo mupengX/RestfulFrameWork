@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: SysUserRoleDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  用户角色关系Dao层

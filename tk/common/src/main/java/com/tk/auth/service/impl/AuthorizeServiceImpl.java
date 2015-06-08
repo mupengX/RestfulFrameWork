@@ -15,7 +15,7 @@ import com.tk.service.auth.AuthorizeService;
  * <pre> 
  *  
  *  File: AuthorizeServiceImpl.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:权限查询
  *  

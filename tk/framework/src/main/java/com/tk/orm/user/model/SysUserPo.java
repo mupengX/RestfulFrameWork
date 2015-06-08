@@ -16,7 +16,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: SysUserPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  系统用户PO

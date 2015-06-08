@@ -17,7 +17,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: Platform.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台基本信息表

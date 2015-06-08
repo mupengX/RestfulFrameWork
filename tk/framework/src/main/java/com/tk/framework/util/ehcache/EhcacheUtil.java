@@ -8,7 +8,7 @@ import net.sf.ehcache.Element;
  * <pre>
  *  
  *  File: EhcacheUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  Ehcache工具类

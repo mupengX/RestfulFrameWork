@@ -7,7 +7,7 @@ import org.springframework.core.convert.converter.Converter;
  * <pre> 
  *  
  *  File: RestErrorConverter.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: rest错误转换类
  *  TODO

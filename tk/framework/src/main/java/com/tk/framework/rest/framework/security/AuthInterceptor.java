@@ -32,7 +32,7 @@ import com.tk.service.user.SysPrivilegeService;
  * <pre>
  *  
  *  File: AuthInterceptor.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 权限拦截器
  *  

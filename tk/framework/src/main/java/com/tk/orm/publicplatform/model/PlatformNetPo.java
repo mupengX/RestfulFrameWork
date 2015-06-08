@@ -14,7 +14,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: PlatformTotalNetPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台_网络

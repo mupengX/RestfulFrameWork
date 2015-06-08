@@ -6,7 +6,7 @@ import com.tk.orm.publicplatform.dto.PlatformBaseInfoDto;
  * <pre> 
  *  
  *  File: PlatformService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

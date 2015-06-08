@@ -8,7 +8,7 @@ import org.springframework.context.ApplicationContextAware;
  * <pre> 
  *  
  *  File: SpringContextHelper.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  上下文工具类，用于动态获取bean

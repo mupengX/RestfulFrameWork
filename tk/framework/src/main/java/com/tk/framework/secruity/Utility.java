@@ -11,7 +11,7 @@ import java.security.SecureRandom;
  * <pre> 
  *  
  *  File: Utility.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  TODO

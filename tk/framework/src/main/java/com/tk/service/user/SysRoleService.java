@@ -12,7 +12,7 @@ import com.tk.orm.user.model.SysRolePo;
  * <pre>
  *  
  *  File: SysRoleSerice.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  角色Service层接口

@@ -4,7 +4,7 @@ package com.tk.framework.exceptions;
  * <pre> 
  *  
  *  File: UserStatusException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 用户状态异常
  *  TODO

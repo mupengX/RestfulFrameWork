@@ -18,7 +18,7 @@ import com.tk.orm.log.model.LogPo;
  * <pre> 
  *  
  *  File: PlatformDetailgovNetModel.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *   公共平台网络统一接口 services

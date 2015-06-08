@@ -9,7 +9,7 @@ import java.util.Map;
  * <pre> 
  *  
  *  File: RestThreadLocalModel.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: REST线程数据基础类
  *  TODO

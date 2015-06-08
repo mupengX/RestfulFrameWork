@@ -11,7 +11,7 @@ import com.tk.framework.dto.CustomViewDto;
  * <pre> 
  *  
  *  File: DynamicObject.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:动态数据对象
  *  TODO

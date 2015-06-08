@@ -16,7 +16,7 @@ import com.tk.framework.dto.CustomViewDto;
  * <pre> 
  *  
  *  File: DynamicTable.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:动态表格封装类，每个实例相当于一行数据
  *  TODO

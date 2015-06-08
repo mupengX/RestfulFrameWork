@@ -11,7 +11,7 @@ import java.lang.annotation.ElementType;
  * <pre> 
  *  
  *  File: JsonFilter.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 自定义注解，用于动态获取过滤字段
  *  TODO

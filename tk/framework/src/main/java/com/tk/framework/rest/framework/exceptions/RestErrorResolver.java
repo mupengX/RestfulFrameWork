@@ -6,7 +6,7 @@ import org.springframework.web.context.request.ServletWebRequest;
  * <pre> 
  *  
  *  File: RestErrorResolver.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: rest错误处理类
  *  TODO

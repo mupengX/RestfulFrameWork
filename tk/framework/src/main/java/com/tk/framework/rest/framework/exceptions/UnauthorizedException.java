@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre>
  *  
  *  File: UnauthorizedException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 身份未认证异常
  *  TODO

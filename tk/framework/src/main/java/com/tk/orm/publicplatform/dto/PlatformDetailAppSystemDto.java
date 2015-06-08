@@ -8,7 +8,7 @@ import com.tk.orm.user.dto.SysDepartmentDto;
  * <pre> 
  *  
  *  File: PlatformDetailAppSystemDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

@@ -11,7 +11,7 @@ import com.tk.orm.user.model.SysPrivilegePo;
  * <pre>
  *  
  *  File: SysPrivilegeVo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  权限DTO

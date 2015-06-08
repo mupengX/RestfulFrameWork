@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre> 
  *  
  *  File: SysDataTypeDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

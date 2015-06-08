@@ -21,7 +21,7 @@ import com.wordnik.swagger.annotations.ApiModel;
  * <pre> 
  *  
  *  File: SysDataType.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

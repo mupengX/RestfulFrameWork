@@ -10,7 +10,7 @@ import org.apache.commons.lang.builder.HashCodeBuilder;
  * <pre>
  *  
  *  File: PageBean.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 分页查询使用的DTO
  *  Notes:

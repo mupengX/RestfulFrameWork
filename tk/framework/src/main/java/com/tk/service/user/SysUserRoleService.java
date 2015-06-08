@@ -12,7 +12,7 @@ import com.tk.orm.user.model.SysUserRolePo;
  * <pre>
  *  
  *  File: SysUserRoleService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  用户角色关系Service层接口

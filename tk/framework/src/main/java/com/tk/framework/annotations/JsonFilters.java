@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * <pre> 
  *  
  *  File: JsonFilters.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: JsonFilter的复数形式
  *  TODO

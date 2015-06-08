@@ -32,7 +32,7 @@ import com.tk.orm.log.model.LogPo;
  * <pre>
  *  
  *  File: LogInterceptor.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 系统日志拦截器
  *  TODO

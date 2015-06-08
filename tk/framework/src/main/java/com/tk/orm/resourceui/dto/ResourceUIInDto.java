@@ -9,7 +9,7 @@ import com.tk.orm.resourceui.model.ResourceUIPo;
  * <pre>
  *  
  *  File: ResourceUIInDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源DTO(应用于设定输入参数)

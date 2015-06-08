@@ -12,7 +12,7 @@ import com.tk.orm.user.model.SysResourceOperationPo;
  * <pre>
  *  
  *  File: SysResourceOperationService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  资源操作Service层接口

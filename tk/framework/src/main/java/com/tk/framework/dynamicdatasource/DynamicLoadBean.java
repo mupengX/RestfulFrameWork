@@ -14,7 +14,7 @@ import org.springframework.context.ConfigurableApplicationContext;
  * <pre> 
  *  
  *  File: DynamicLoadBean.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 动态加载数据源bean
  *  TODO

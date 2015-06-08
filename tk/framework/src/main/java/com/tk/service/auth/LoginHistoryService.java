@@ -7,7 +7,7 @@ import com.tk.orm.auth.model.LoginHistoryPo;
  * <pre> 
  *  
  *  File: LoginHistoryService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre>
  *  
  *  File: BadRequestException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: bad请求异常
  *  TODO

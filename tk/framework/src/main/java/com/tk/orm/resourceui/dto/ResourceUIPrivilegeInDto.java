@@ -9,7 +9,7 @@ import com.tk.orm.resourceui.model.ResourceUIPrivilegePo;
  * <pre>
  *  
  *  File: ResourceUIPrivilegeInDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源权限DTO(应用于设定输入参数)

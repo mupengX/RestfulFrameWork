@@ -4,7 +4,7 @@ package com.tk.framework.cache;
  * <pre> 
  *  
  *  File: CacheType.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

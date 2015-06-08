@@ -47,7 +47,7 @@ import com.tk.framework.util.ConfigQueryUtil;
  * <pre> 
  *  
  *  File: BaseDaoImpl.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:基础DAO实现类，提供常用的数据库操作
  *  TODO

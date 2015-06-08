@@ -16,7 +16,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: SysUserRolePo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  用户角色关系PO

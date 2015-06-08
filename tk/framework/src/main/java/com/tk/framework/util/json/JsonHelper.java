@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
  * <pre> 
  *  
  *  File: JsonHelper.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: json转换工具类
  *  TODO

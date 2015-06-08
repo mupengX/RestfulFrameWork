@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre>
  *  
  *  File: ResourceForbiddenException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 资源禁止访问异常
  *  TODO

@@ -13,7 +13,7 @@ import com.wordnik.swagger.model.ApiInfo;
  * <pre> 
  *  
  *  File: SwaggerConfig.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: Swagger配置类
  *  TODO

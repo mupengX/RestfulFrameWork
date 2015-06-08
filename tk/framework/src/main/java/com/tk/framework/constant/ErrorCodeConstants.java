@@ -4,7 +4,7 @@ package com.tk.framework.constant;
  * <pre> 
  *  
  *  File: ErrorCodeConstants.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 错误业务代码常量
  *  TODO

@@ -12,7 +12,7 @@ import com.tk.framework.rest.framework.exceptions.UnknownResourceException;
  * <pre> 
  *  
  *  File: DefaultController.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 拦截错误URL的Controller
  *  TODO

@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre>
  *  
  *  File: RestException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: rest 异常基础类
  *  TODO

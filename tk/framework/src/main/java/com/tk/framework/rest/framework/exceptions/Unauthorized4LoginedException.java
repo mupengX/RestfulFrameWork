@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre>
  *  
  *  File: Unauthorized4LoginedException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

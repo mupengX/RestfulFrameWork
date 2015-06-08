@@ -9,7 +9,7 @@ import com.tk.framework.rest.framework.model.RestThreadLocal;
  * <pre> 
  *  
  *  File: BaseResources.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 资源基础类
  *  TODO

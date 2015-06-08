@@ -8,7 +8,7 @@ import com.tk.orm.govplaform.model.GovInfoBasePo;
  * <pre> 
  *  
  *  File: GovInfoService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

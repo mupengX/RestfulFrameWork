@@ -14,7 +14,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: PlatformTotalPcHomePo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台_机房

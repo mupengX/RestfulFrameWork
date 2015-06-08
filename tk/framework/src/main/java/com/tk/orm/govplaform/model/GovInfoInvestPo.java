@@ -22,7 +22,7 @@ import com.tk.framework.constant.AppConstats;
  * <pre> 
  *  
  *  File: Platform.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台基本信息表

@@ -11,7 +11,7 @@ import com.tk.orm.user.model.SysUserDetailPo;
  * <pre>
  *  
  *  File: SysUserDetailDto.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  用户详情DTO

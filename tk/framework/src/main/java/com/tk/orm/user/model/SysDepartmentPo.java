@@ -16,7 +16,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: SysDepartmentPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  部门PO

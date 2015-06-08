@@ -17,7 +17,7 @@ import com.tk.framework.rest.framework.exceptions.UnauthorizedException;
  * <pre> 
  *  
  *  File: LDispatcherServlet.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 处理REST的 DispatcherServlet
  *  TODO

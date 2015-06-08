@@ -4,7 +4,7 @@ package com.tk.framework.rest.framework.exceptions;
  * <pre>
  *  
  *  File: DataNotFoundException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 数据未找到异常
  *  TODO

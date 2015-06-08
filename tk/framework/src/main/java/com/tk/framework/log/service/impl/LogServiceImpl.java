@@ -31,7 +31,7 @@ import com.tk.service.log.LogService;
  * <pre>
  *  
  *  File: LogServiceImpl.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  日志Service层接口实现类

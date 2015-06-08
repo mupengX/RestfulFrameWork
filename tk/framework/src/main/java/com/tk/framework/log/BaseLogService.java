@@ -9,7 +9,7 @@ import com.tk.orm.log.model.LogPo;
  * <pre> 
  *  
  *  File: baseLogger.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

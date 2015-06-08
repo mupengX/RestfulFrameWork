@@ -7,7 +7,7 @@ import org.hibernate.type.Type;
  * <pre> 
  *  
  *  File: ColumnReturnType.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 字段返回类型
  *  TODO

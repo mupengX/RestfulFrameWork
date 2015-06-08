@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: SysResourceOperationDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  资源操作Dao层接口

@@ -8,7 +8,7 @@ import java.io.Serializable;
  * <pre> 
  *  
  *  File: ThreadLocalModel.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: ThreadLocal数据类
  *  TODO

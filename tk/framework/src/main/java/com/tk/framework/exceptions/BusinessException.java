@@ -5,7 +5,7 @@ package com.tk.framework.exceptions;
  * <pre> 
  *  
  *  File: BusinessException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 业务异常基类
  *  TODO

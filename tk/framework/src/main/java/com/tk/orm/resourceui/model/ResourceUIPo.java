@@ -14,7 +14,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: ResourceUIPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源PO

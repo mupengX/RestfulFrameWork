@@ -12,7 +12,7 @@ import org.springframework.beans.factory.InitializingBean;
  * <pre>
  *  
  *  File: MethodFlushCacheInterceptor.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  TODO

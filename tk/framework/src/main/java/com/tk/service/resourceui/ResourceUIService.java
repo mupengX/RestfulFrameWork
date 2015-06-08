@@ -12,7 +12,7 @@ import com.tk.orm.resourceui.model.ResourceUIPo;
  * <pre>
  *  
  *  File: ResourceUIService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  UI资源Service层接口

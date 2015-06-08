@@ -33,7 +33,7 @@ import java.nio.charset.Charset;
  * <pre> 
  *  
  *  File: DefaultJacksonHttpMessageConverter.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: REST 实体-Json转换类
  *  TODO

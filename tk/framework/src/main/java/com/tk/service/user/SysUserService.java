@@ -15,7 +15,7 @@ import com.tk.orm.user.model.SysUserPo;
  * <pre>
  *  
  *  File: SysUserService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  用户Service层接口

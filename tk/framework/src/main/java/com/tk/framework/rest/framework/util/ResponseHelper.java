@@ -21,7 +21,7 @@ import com.tk.framework.util.ValidationUtil;
  * <pre>
  *  
  *  File: ResponseHelper.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:Http Response工具类
  *  TODO

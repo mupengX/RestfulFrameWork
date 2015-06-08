@@ -7,7 +7,7 @@ import com.tk.framework.constant.AppConstats;
  * <pre> 
  *  
  *  File: PublicUserUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 验证公网用户的工具类
  *  TODO

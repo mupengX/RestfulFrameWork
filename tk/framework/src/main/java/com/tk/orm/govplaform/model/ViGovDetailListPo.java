@@ -18,7 +18,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre> 
  *  
  *  File: GovInfoAssetPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  政务部门资产情况表

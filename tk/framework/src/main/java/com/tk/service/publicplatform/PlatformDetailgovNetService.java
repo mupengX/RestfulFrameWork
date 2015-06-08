@@ -8,7 +8,7 @@ import com.tk.orm.publicplatform.model.PlatformDetailgovNetModel;
  * <pre>
  *  
  *  File: PlatformDetailgovNetService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  公共平台网络统一  service层接口 

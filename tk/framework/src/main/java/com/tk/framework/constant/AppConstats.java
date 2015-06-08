@@ -4,7 +4,7 @@ package com.tk.framework.constant;
  * <pre>
  *  
  *  File: AppConstats.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 常量类
  *  TODO

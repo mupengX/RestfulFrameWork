@@ -30,7 +30,7 @@ import sun.misc.BASE64Encoder;
  * <pre> 
  *  
  *  File: Encrypt.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 加密解密工具类
  *  TODO

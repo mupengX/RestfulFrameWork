@@ -11,7 +11,7 @@ import com.tk.framework.util.ValidationUtil;
  * <pre> 
  *  
  *  File: DateUtil.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 日期工具类
  *  TODO

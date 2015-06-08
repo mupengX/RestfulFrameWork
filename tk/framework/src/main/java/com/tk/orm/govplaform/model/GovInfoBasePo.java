@@ -31,7 +31,7 @@ import com.tk.orm.user.model.SysDepartmentPo;
  * <pre>
  *  
  *  File: GovInfoBasePo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  政务部门基础信息表

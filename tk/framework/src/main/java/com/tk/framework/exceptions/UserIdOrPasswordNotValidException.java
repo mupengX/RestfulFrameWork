@@ -7,7 +7,7 @@ import com.tk.framework.constant.MessageConstants;
  * <pre> 
  *  
  *  File: UserIdOrPasswordNotValidException.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: 用户名或密码错误 异常类
  *  TODO

@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: SysDepartmentDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  部门DAO层接口。

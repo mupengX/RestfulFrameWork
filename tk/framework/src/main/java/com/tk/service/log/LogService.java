@@ -8,7 +8,7 @@ import com.tk.orm.log.model.LogPo;
  * <pre>
  *  
  *  File: LogService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  日志Service层接口

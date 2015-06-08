@@ -16,7 +16,7 @@ import org.hibernate.annotations.GenericGenerator;
  * <pre>
  *  
  *  File: SysResourceOperationPo.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  资源操作PO

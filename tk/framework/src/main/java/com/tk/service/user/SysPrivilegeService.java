@@ -13,7 +13,7 @@ import com.tk.orm.user.model.SysRolePo;
  * <pre>
  *  
  *  File: SysPrivilegeService.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  权限Service层接口

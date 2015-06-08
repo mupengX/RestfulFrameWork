@@ -14,7 +14,7 @@ import com.tk.framework.rest.framework.util.ResponseHelper;
  * <pre> 
  *  
  *  File: ApiExceptionHandler.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description: api异常处理类
  *  TODO

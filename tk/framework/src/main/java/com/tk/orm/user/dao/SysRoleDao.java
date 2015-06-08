@@ -6,7 +6,7 @@ import com.tk.framework.dao.BaseDao;
  * <pre>
  *  
  *  File: SysRoleDao.java
- *  , Inc.
+ *  
  *  Copyright (C): 2014
  *  Description:
  *  角色Dao层接口

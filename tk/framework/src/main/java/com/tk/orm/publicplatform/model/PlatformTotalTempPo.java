@@ -7,7 +7,7 @@ import java.math.BigDecimal;
  * <pre> 
  *  
  *  File: PlatfromTotalTemp.java
- *  , Inc.
+ *  
  *  Copyright (C): 2015
  *  Description:
  *  作为汇总统计的临时存储变量
