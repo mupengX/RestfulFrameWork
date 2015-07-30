@@ -111,41 +111,6 @@ WITH (OIDS=FALSE)
 -- Records of sp_resource_ui
 -- ----------------------------
 
--- ----------------------------
--- Table structure for sp_serialform
--- ----------------------------
-DROP TABLE IF EXISTS "public"."sp_serialform";
-CREATE TABLE "public"."sp_serialform" (
-"id" text COLLATE "default" NOT NULL,
-"ssf_applicantid" text COLLATE "default",
-"ssf_itemdefid" text COLLATE "default",
-"ssf_iteminstanceid" text COLLATE "default",
-"ssf_deptid" text COLLATE "default",
-"ssf_serialnumber" text COLLATE "default",
-"ssf_starttime" timestamp(6),
-"ssf_endtime" timestamp(6),
-"ssf_agencycode" text COLLATE "default",
-"ssf_recstatus" text COLLATE "default",
-"ssf_order" text COLLATE "default",
-"ssf_lockstatus" text COLLATE "default",
-"ssf_lockdate" timestamp(6),
-"ssf_lockuserid" text COLLATE "default",
-"ssf_createby" text COLLATE "default",
-"ssf_createdate" timestamp(6),
-"ssf_lasteditby" text COLLATE "default",
-"ssf_lasteditdate" timestamp(6),
-"ssf_remarks" text COLLATE "default",
-"ssf_extend1" text COLLATE "default",
-"ssf_extend2" text COLLATE "default",
-"ssf_extend3" text COLLATE "default"
-)
-WITH (OIDS=FALSE)
-
-;
-
--- ----------------------------
--- Records of sp_serialform
--- ----------------------------
 
 -- ----------------------------
 -- Table structure for sys_agency
@@ -187,7 +152,7 @@ WITH (OIDS=FALSE)
 -- ----------------------------
 -- Records of sys_agency
 -- ----------------------------
-INSERT INTO "public"."sys_agency" VALUES ('402881dd4b763c1a014b768878050018', '西安众擎电子科技有限公司', '75f05661-78e6-455b-9ac5-fa5968646594', '众擎电子', null, null, null, '高新路25号', '2015-02-28 11:27:39', '刘怀亮', '15023654578', null, null, null, 'admin', '324:ab02eadf0b911acf28ecac8c27fc45e6c717ed7cbda69928:9cfb43127d52d7d1172609c369095364e1971f02006e7b81', null, null, '0', null, 'tk', '2015-02-11 10:47:10', null, null, null, null, null);
+
 
 -- ----------------------------
 -- Table structure for sys_datadictionaryitem
@@ -292,10 +257,6 @@ WITH (OIDS=FALSE)
 -- ----------------------------
 -- Records of sys_department
 -- ----------------------------
-INSERT INTO "public"."sys_department" VALUES ('402881dd4b763c1a014b768878060019', '西安众擎电子科技有限公司', 'DEFAULT_DEPARMENT', null, null, null, null, null, '默认部门，请勿删除.', null, '402881dd4b763c1a014b768878050018', null, null, null, null, null, 'tk', '2015-02-11 00:00:00', null, null, null, null, null, null);
-INSERT INTO "public"."sys_department" VALUES ('402881ee4b7be527014b7be7bc40006a', '研发二部', '002', null, null, null, null, null, '研发二部java', '402881dd4b763c1a014b768878060019', '402881dd4b763c1a014b768878050018', null, null, null, null, null, 'admin', '2015-02-12 00:00:00', null, null, null, null, null, null);
-INSERT INTO "public"."sys_department" VALUES ('402881ee4b7be527014b7be7ee21121c', '规划局', '001', null, null, null, null, null, '规划局', '402881dd4b763c1a014b768878060019', '402881dd4b763c1a014b768878050018', null, null, null, null, null, 'admin', '2015-02-12 00:00:00', null, null, null, null, null, null);
-INSERT INTO "public"."sys_department" VALUES ('402881ee4b7be527014b7be7ee24006c', '研发一部', '003', null, null, null, null, null, '.net', '402881dd4b763c1a014b768878060019', '402881dd4b763c1a014b768878050018', null, null, null, null, null, 'admin', '2015-02-12 00:00:00', null, null, null, null, null, null);
 
 -- ----------------------------
 -- Table structure for sys_log
@@ -1092,10 +1053,7 @@ ALTER TABLE "public"."sp_privilege_relation" ADD PRIMARY KEY ("id");
 -- ----------------------------
 ALTER TABLE "public"."sp_resource_ui" ADD PRIMARY KEY ("id");
 
--- ----------------------------
--- Primary Key structure for table sp_serialform
--- ----------------------------
-ALTER TABLE "public"."sp_serialform" ADD PRIMARY KEY ("id");
+
 
 -- ----------------------------
 -- Primary Key structure for table sys_agency

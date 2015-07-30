@@ -7,9 +7,7 @@
     <artifactId>tk</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.tk</groupId>
   <artifactId>common</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>common</name>
   <url>http://maven.apache.org</url>
   <properties>
@@ -21,5 +19,22 @@
 		<artifactId>framework</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</dependency>
+	<!-- qpid start -->
+		<dependency>
+		    <groupId>org.apache.qpid</groupId>
+		    <artifactId>qpid-client</artifactId>
+		    <version>0.30</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jms</artifactId>
+			<version>4.0.2.RELEASE</version>
+		</dependency>
+		<dependency>
+		    <groupId>org.apache.geronimo.specs</groupId>
+		    <artifactId>geronimo-jms_1.1_spec</artifactId>
+		    <version>1.1.1</version>
+		</dependency>
+		<!-- qpid end -->
   </dependencies>
 </project>

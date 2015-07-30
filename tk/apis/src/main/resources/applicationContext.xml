@@ -108,4 +108,6 @@
     
     <!-- 引入redis相关配置 -->
     <import resource="applicationContext-redis.xml"/>
+    <!-- 引入qpid相关配置 -->
+    <import resource="applicationContext-qpid.xml" />
 </beans>

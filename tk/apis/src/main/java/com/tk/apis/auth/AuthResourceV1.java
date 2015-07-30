@@ -57,10 +57,10 @@ public class AuthResourceV1
 	@Autowired
 	private AuthorizeService authorizeService;
 
-	@Autowired
+	//@Autowired 实现AgencyService后将此注释打开
 	private AgencyService agencyService;
 
-	@Autowired
+	//@Autowired 实现SysUserService后将此注释打开
 	private SysUserService sysUserService;
 
 	/**

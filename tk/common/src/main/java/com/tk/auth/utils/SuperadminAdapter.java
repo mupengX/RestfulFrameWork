@@ -23,7 +23,7 @@ import com.tk.service.user.SysUserService;
  */
 public class SuperadminAdapter extends AuthAdapter
 {
-	@Autowired
+	//@Autowired 实现SysUserService后将此注释放开
 	private SysUserService sysUserService;
 
 	@Override

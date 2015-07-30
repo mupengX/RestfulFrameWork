@@ -52,7 +52,7 @@ public class AuthInterceptor extends HandlerInterceptorAdapter
 	@Autowired
 	private UserSessionService userSessionService;
 
-	@Autowired
+	//@Autowired 实现SysPrivilegeService 后将此注释放开
 	private SysPrivilegeService sysPrivilegeService;
 
 	@Override

@@ -28,7 +28,7 @@ import com.tk.service.user.SysUserService;
 public class AgencyAdapter extends AuthAdapter
 {
 	// agUserService
-	@Autowired
+	//@Autowired 实现SysUserService后将此注释放开
 	private SysUserService sysUserService;
 
 	@Override

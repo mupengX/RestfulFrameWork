@@ -28,7 +28,7 @@ import com.tk.service.publicuser.PuUserService;
 public class PublicAdapter extends AuthAdapter
 {
 	//publicUserService
-	@Autowired
+	//@Autowired 实现PuUserService后将此注释放开
 	PuUserService publicUserService;
 	
 	@Override

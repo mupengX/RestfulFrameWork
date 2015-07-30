@@ -183,6 +183,7 @@ public class RestThreadLocal
 		if (model != null)
 		{
 			model.clean();
+			threadLocal.remove();
 		}
 	}
 
