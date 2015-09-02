@@ -20,15 +20,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 /**
  * <pre> 
- *  ZqElectron
+ *  TK
  *  File: MyListener.java
- *  ZqElectron, Inc.
  *  Copyright (C): 2015
  *  Description:
  *  TODO
  * 
  *  Notes:
- *  $Id: MyListener.java 69862260-0 2014-12-24 23:59:59Z ZqElectron\mupeng $ 
+ *  $Id: MyListener.java  2014-12-24 23:59:59Z TK\mupeng $ 
  * 
  * @Revision History:
  * <<2015年3月17日下午3:30:58>>, <<Who>>, <<what>>  

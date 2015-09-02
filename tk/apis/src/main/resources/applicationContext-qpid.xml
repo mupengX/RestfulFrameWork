@@ -23,7 +23,7 @@
 
 	<bean id="myDestination" class="org.apache.qpid.client.AMQAnyDestination">
 		<constructor-arg index="0"
-			value="ADDR:zq.test; {create: always}" />
+			value="ADDR:test.test; {create: always}" />
 	</bean>
 
 	<bean id="qpidJmsTemplate" class="org.springframework.jms.core.JmsTemplate">

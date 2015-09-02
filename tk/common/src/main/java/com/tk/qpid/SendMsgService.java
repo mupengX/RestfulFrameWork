@@ -12,15 +12,14 @@ import org.springframework.jms.core.MessageCreator;
 import org.springframework.stereotype.Service;
 /**
  * <pre> 
- *  ZqElectron
+ *  TK
  *  File: SendMsgService.java
- *  ZqElectron, Inc.
  *  Copyright (C): 2015
  *  Description:
  *  TODO
  * 
  *  Notes:
- *  $Id: SendMsgService.java 69862260-0 2014-12-24 23:59:59Z ZqElectron\mupeng $ 
+ *  $Id: SendMsgService.java 2014-12-24 23:59:59Z TK\mupeng $ 
  * 
  * @Revision History:
  * <<2015年3月17日下午3:33:50>>, <<Who>>, <<what>>  
